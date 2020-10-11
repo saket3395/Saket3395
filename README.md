@@ -2,7 +2,7 @@
 
 ### About Me : <br>
 A Graduate student at Rutgers Business School,I am interested in exploring career opportunities in Data Science, Data Analytics, Business Analysis. 
-<br><br>
+<br>
 <br>Data Engineer</b> with a mixture of software engineering and data analytics background along with 2 years of industry experience. Exposure to working in an agile environment with demonstrated expertise in databases, ad-hoc requests and customer experience.Therefore, I am exploring opportunities that would help me learn and hone my skills in leveraging data to come up with insights for them.
 
 ### Contact Information : <br>
