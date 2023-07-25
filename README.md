@@ -1,12 +1,12 @@
 ## Welcome to my GitHub Page!
 
 ### About Me : <br>
-A Graduate student at Rutgers Business School,I am interested in exploring career opportunities in Data Science, Data Analytics, Business Analysis. 
+Analyst with strong background in both data analytics and software engineering, bringing 5+ years of experience.
 <br>
-<br>Data Analyst</b> with a mixture of software engineering and data analytics background along with 2 years of industry experience. Exposure to working in an agile environment with demonstrated expertise in databases, ad-hoc requests and customer experience.Therefore, I am exploring opportunities that would help me learn and hone my skills in leveraging data to come up with insights for them.
+<be><b>Data Analyst</b> with exposure to working in an agile environment with demonstrated expertise in multiple databases, dashboard creation and data storytelling.Therefore, I am exploring opportunities that would help me learn and hone my skills in leveraging data to develop insights for them.
 
 ### Contact Information : <br>
-Connect with me on LinkedIn: https://www.linkedin.com/in/saket-tulsan/ or reach out at saket.tulsan@rutgers.edu / sakettulsan95@gmail.com.
+Contact me on LinkedIn: https://www.linkedin.com/in/saket-tulsan/ or reach out at saket.tulsan20@gmail.com.
 
 ### Skills and Accomplishments: <br>
 
