@@ -6,7 +6,7 @@ Analyst with strong background in both data analytics and software engineering, 
 <be><b>Data Analyst</b> with exposure to working in an agile environment with demonstrated expertise in multiple databases, dashboard creation and data storytelling.Therefore, I am exploring opportunities that would help me learn and hone my skills in leveraging data to develop insights for them.
 
 ### Contact Information : <br>
-Contact me on LinkedIn: https://www.linkedin.com/in/saket-tulsan/ or reach out at saket.tulsan20@gmail.com.
+Contact me on LinkedIn: https://www.linkedin.com/in/saket-tulsan/ or reach out at sakettulsan95@gmail.com.
 
 ### Skills and Accomplishments: <br>
 
