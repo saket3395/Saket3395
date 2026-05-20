@@ -1,12 +1,17 @@
 ## Welcome to my GitHub Page!
 
-### About Me : <br>
-Analyst with strong background in both data analytics and software engineering, bringing 5+ years of experience.
+### About Me : <br>Thinkbridge Partners | Automation-First Consulting | Fintech | Management Consulting | MIT Hackathon Winner | Business Intelligence Consultant<br>
+<br>"Numbers have an important story to tell. They rely on you to give them a clear and convincing voice."
 <br>
-<be><b>Data Analyst</b> with exposure to working in an agile environment with demonstrated expertise in multiple databases, dashboard creation and data storytelling.Therefore, I am exploring opportunities that would help me learn and hone my skills in leveraging data to develop insights for them.
+<br>I am a <b>data aficionado</b>, <b>strategic thinker</b>, and <b>data enthusiast</> committed to uncovering <b>actionable insights, developing innovative solutions, and providing memorable customer service</b>. I have a  strong background in <b>process enhancement, KPI Tracking, and strong cross-functional stakeholder management</b>.<br> With a passion for collaboration, innovation, and delivering high-quality solutions, I have consistently demonstrated his ability to provide insights using BI data story-telling and data-driven analytics for creating new products.
+<br>
+More About Me:<br>
+I am <b>highly analytical, detail-oriented, collaborative, and team-oriented.</b><br>
+I am a <b>quick learner and love exciting, fast-paced environments.</b> I work best with <b>large complex amounts of data.</b><br>
+I love a challenge!<br>
 
 ### Contact Information : <br>
-Contact me on LinkedIn: https://www.linkedin.com/in/saket-tulsan/ or reach out at sakettulsan95@gmail.com.
+Contact me on LinkedIn: https://www.linkedin.com/in/saket-tulsan/ or reach out at saket.tulsan@thinkbridgepartners.com or +91-9152267275.
 
 ### Skills and Accomplishments: <br>
 
